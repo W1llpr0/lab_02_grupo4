@@ -8,15 +8,18 @@ package violations;
  *
  * @author jacks
  */
-public class PhysicalProduct extends Product {
+public class PhysicalProduct extends Product implements Shippable {
+
+    private double weight;
 
     public PhysicalProduct(String name, double basePrice, double weight) {
-        super(name, basePrice, weight);
+        super(name, basePrice);
+        this.weight = weight;
     }
 
     @Override
     public double calculatePrice() {
-        return basePrice * 1.15; // Incluye impuestos
+        return basePrice + weight * 1.15; // Incluye impuestos
     }
 
     @Override

@@ -12,29 +12,17 @@ public abstract class Product {
 
     protected String name;
     protected double basePrice;
-    protected double weight;
 
-    public Product(String name, double basePrice, double weight) {
+    public Product(String name, double basePrice) {
         this.name = name;
         this.basePrice = basePrice;
-        this.weight = weight;
     }
 
     public abstract double calculatePrice();
 
-    public abstract double calculateShippingCost();
+    //public abstract double calculateShippingCost();
 
-    public abstract boolean requiresPhysicalDelivery();
-
-    // Método que todas las subclases deberían poder ejecutar
-    public void processOrder() {
-        System.out.println("Procesando pedido para: " + name);
-        System.out.println("Precio: $" + calculatePrice());
-        System.out.println("Costo envío: $" + calculateShippingCost());
-        if (requiresPhysicalDelivery()) {
-            System.out.println("Preparando para envío físico");
-        }
-    }
+    //public abstract boolean requiresPhysicalDelivery();
 
     public String getName() {
         return name;
@@ -42,9 +30,5 @@ public abstract class Product {
 
     public double getBasePrice() {
         return basePrice;
-    }
-
-    public double getWeight() {
-        return weight;
     }
 }
