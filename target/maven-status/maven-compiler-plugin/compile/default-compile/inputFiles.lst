@@ -1,8 +1,35 @@
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\tests\ProductTest.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\ulima\laboratorio_02\Laboratorio_02.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\DigitalProduct.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\PaymentProcessor.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\PhysicalProduct.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\Product.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\ServiceProduct.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\User.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\DatabaseOrderRepository.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\EmailNotificationService.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\FileLoggerService.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\Logger.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\MockLogger.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\MockNotificationService.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\MockRepository.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\NotificationService.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\OrderRepository.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\OrderService.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\OrderServiceFactory.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\corrected\SMSNotificationService.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\tests\DIPDemo.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\tests\OrderServiceTest.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\violations\DatabaseRepository.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\violations\EmailNotifier.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\violations\FileLogger.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\violations\OrderService.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\com\solid\violations\SMSNotifier.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\tests\OrderServiceTest.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\tests\ProductTest.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\tests\SolidViolationsDemo.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\BasicOrderProcessor.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\DatabaseRepository.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\DigitalProduct.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\EmailNotifier.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\FileLogger.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\OrdeProcessor.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\OrderService.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\PaymentProcessor.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\PhysicalProduct.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\Product.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\ServiceProduct.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\SMSNotifier.java
+C:\Users\Alonso\Desktop\Estudios\1.Universidad de Lima\8VO_CICLO\IngSoft\Actividad 2\lab_02_grupo4\src\main\java\violations\User.java
