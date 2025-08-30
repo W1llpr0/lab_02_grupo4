@@ -1,8 +1,23 @@
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\tests\ProductTest.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\ulima\laboratorio_02\Laboratorio_02.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\DigitalProduct.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\PaymentProcessor.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\PhysicalProduct.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\Product.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\ServiceProduct.java
-C:\Users\jacks\Documents\NetBeansProjects\2025-02-isw02\laboratorio_02\src\main\java\violations\User.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\tests\CorrectedOCP.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\com\solid\corrected\PaypalPayment.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\FileLogger.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\com\solid\corrected\PaymentMethod.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\SMSNotifier.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\User.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\tests\SolidViolationsDemo.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\DigitalProduct.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\EmailNotifier.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\OrderService.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\com\solid\corrected\BankTransferPayment.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\com\solid\corrected\CreditCardPayment.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\com\solid\corrected\ApplePayPayment.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\DatabaseRepository.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\tests\ProductTest.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\tests\OrderServiceTest.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\OrdeProcessor.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\ServiceProduct.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\Product.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\PhysicalProduct.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\BasicOrderProcessor.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\com\solid\corrected\PaymentProcessor.java
+C:\Users\Maritza\OneDrive\Documentos\ULIMA\Ciclo 8\Soft II\laboratorios-soft_II\lab02\lab_02_grupo4\src\main\java\violations\PaymentProcessor.java
