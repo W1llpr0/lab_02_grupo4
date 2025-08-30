@@ -12,23 +12,37 @@ public abstract class Product {
 
     protected String name;
     protected double basePrice;
+    protected double weight;
 
-    public Product(String name, double basePrice) {
+    public Product(String name, double basePrice, double weight) {
         this.name = name;
         this.basePrice = basePrice;
+        this.weight = weight;
     }
 
     public abstract double calculatePrice();
 
-    //public abstract double calculateShippingCost();
+    public abstract double calculateShippingCost();
 
-    //public abstract boolean requiresPhysicalDelivery();
+    public abstract boolean requiresPhysicalDelivery();
 
+    public void processOrder() {
+        System.out.println("Procesando orden para: " + name);
+        System.out.println("Precio: $" + calculatePrice());
+        System.out.println("Costo de envío: $" + calculateShippingCost());
+        System.out.println("Requiere entrega física: " + requiresPhysicalDelivery());
+    }
+    
+    // Getters básicos
     public String getName() {
         return name;
     }
-
+    
     public double getBasePrice() {
         return basePrice;
+    }
+    
+    public double getWeight() {
+        return weight;
     }
 }

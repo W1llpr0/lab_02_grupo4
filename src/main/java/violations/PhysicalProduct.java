@@ -8,13 +8,10 @@ package violations;
  *
  * @author jacks
  */
-public class PhysicalProduct extends Product implements Shippable {
-
-    private double weight;
+public class PhysicalProduct extends Product {
 
     public PhysicalProduct(String name, double basePrice, double weight) {
-        super(name, basePrice);
-        this.weight = weight;
+        super(name, basePrice, weight);
     }
 
     @Override
